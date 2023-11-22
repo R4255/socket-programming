@@ -8,3 +8,6 @@ this repo contains the example of the hash sending and verification
 #the server calculate the file hash 
 #and then server matches both the hash 
 #we will be using the sha256 to calculate the hash here
+
+address family internet , it uses IPV4 to communicate
+#sock stream ->it is reliable , stream oriented connection 
